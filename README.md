@@ -11,7 +11,6 @@
 
 - 📄 I've Managed/Developed for communities combined reaching over 300,000 Users!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
