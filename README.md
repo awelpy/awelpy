@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Phantom UI**
 
-- 📄 Know about my experiences [Managed / Developed for communities reaching 250,000 Users](Managed / Developed for communities reaching 250,000 Users)
+- 📄 I've Managed/Developed for communities combined reaching over 300,000 Users!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
