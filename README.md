@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Awel</h1>
 <h3 align="center">A Java, Javascript & Python Developer from Houston Texas</h3>
 
-- 🔭 I’m currently working on [Bleed Network](https://discord.gg/bleedmc)
+- 🔭 I’m currently working on [Bleed Network](https://discord.gg/bleeds)
 
 - 🌱 I’m currently learning **Java & Python**
 
