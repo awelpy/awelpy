@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Awel</h1>
 <h3 align="center">A Java, Javascript & Python Developer from Houston Texas</h3>
 
-- 🔭 I’m currently working on [OrbitZone Network](https://discord.gg/orbitzone)
+- 🔭 I’m currently working on [DupeBlocks Network](https://discord.gg/dupeblocks)
 
 - 🌱 I’m currently learning **Java & Python**
 
