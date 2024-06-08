@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Awel</h1>
-<h3 align="center">A Java, Javascript & Python Developer from Houston Texas</h3>
+<h3 align="center">A Java, Javascript & Python Developer from Texas</h3>
 
-- 🔭 I’m currently working on [OrbitZone Network](https://discord.gg/orbitzone)
+- 🔭 I’m currently working on [Minecrush Network](https://discord.gg/dupe)
 
-- 🌱 I’m currently learning **Java & Python**
-
-- 👯 I’m looking to collaborate on **Phantom UI**
+- 🌱 I’m currently learning **Java, Javascript & Python**
 
 - 📄 I've Managed/Developed for communities combined reaching over 300,000 Users!
 
