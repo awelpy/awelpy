@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on MineCrush Network.<br>At the moment learning Java, Javascript & Python.<br>Have managed upwards of 400,000 unique users.
+Currently working on MineCrush Network.<br>At the moment learning Java, Javascript, Python & Kotlin.<br>Have managed upwards of 400,000 unique users.
 
 
 # 💻 Tech Stack:
