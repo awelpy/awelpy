@@ -1,6 +1,6 @@
 # 📩 Contact Me:
 
-Email: awel@awel.studio<br>Discord: `.awel`
+Email: contact@awel.studio<br>Discord: `.awel`<br><br>Recommend contacting through email, I rarely check my discord messages.
 
 # 💫 About Me:
 Currently working on MineCrush Network.<br>At the moment learning Java, Javascript, Python & Kotlin.<br>Have managed upwards of 400,000 unique users.
