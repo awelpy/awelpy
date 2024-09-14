@@ -1,6 +1,3 @@
-![Logo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RkMHdseHRudjZ3ZjM2MHozbzR2eDBmc3JvM2pqcXd5a2UyMjA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Aj0ZGX4Fm4YDT0QKyA/giphy.gif)
-
-
 # 📩 Contact Me:
 
 Email: contact@awel.studio<br>Discord: `.awel`<br><br>Recommend contacting through email, I rarely check my discord messages.
