@@ -4,7 +4,7 @@ Email: contact@awel.studio<br>Discord: `.awel`<br><br>Recommend contacting throu
 
 # 💫 About Me:
 Currently working on the Minecrush Minecraft Network as a Community Manager and have managed upwards of **400,000 unique users** <br>
-Currently learning:<br>
+Learning:<br>
 - Java
 - Javascript
 - Python<br>
