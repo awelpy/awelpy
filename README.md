@@ -6,12 +6,14 @@ Email: contact@awel.studio<br>Discord: `.awel`<br><br>Recommend contacting throu
 Currently working on the Minecrush Minecraft Network as a Community Manager and have managed upwards of **400,000 unique users** <br>
 Learning:<br>
 - Java
+- Kotlin
 - Javascript
+- Typescript
 - Python<br>
 
 Looking into:
-- Kotlin 
 - Go
+- Rust
 
 # 💻 Tech Stack:
 ![invisgg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invisgg&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
