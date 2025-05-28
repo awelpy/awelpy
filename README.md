@@ -3,7 +3,10 @@
 ![Header-GIF](https://tenor.com/view/dontsaveher-norolemodelz-gif-20761176.gif)
 
 <h1>Hi, I'm Awel 🪶️</h1><br />
-Community Manager, managing over 700,000 unique users. And, Aspiring software engineer, currently learning back-end development. While looking into learning more front-end web and application development with Next.js and React <br />
+
+I'm a community manager and aspiring full-stack developer with a growing focus on back-end development, particularly Java and Kotlin. In the last few years, I've gained considerable hands on experience in developing my own software projects and managing a multitude of communities. 
+
+In my role as a community manager, I've lead operations for large online platforms, including overseeing user engagement for a **client based service that supported over 850,000 unique users**.<br />
 </div>
 
 <div align="center">
@@ -57,7 +60,7 @@ Community Manager, managing over 700,000 unique users. And, Aspiring software en
 
 ![](https://github-profile-trophy.vercel.app/?username=invisgg&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<h4> Readme copied from Snowypy </h4>
+<h4> Readme inspired from Snowypy </h4>
 
 
 </div>
