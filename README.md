@@ -11,8 +11,6 @@ In my role as a community manager, I've lead operations for large online platfor
 
 <div align="center">
 
-<br />[![wakatime](https://wakatime.com/badge/user/c8a96a66-0eda-4bd4-b87a-5a6dece64450.svg)](https://wakatime.com/@c8a96a66-0eda-4bd4-b87a-5a6dece64450)
-
 </div>
 
 <div align="center">
